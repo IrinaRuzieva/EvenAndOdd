@@ -3,7 +3,7 @@ public class EvenAndOdd {
         int limit = 100;
         int count = 1;
         //printing all the even numbers
-        while (count <= limit) {//run for limit number of times. Go from 1 to limit
+        while (count <= limit) {//run for limit number of times. Go from 1 to limit number
             if (count % 2 == 0) {
                 System.out.print(count + " ");
             }
